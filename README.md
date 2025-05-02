@@ -102,3 +102,14 @@ zone_reponse.tag_config("error", foreground="red")
 
 fenetre.mainloop()
 ```
+### Instructions :
+1. Installe openai si ce n’est pas fait :
+```bash
+pip install openai
+```
+2. Remplace "sk-...ta_clé..." par ta vraie clé API OpenAI.
+3. Lance le script :
+```bash
+python ton_fichier.py
+```
+4. Pose des questions via l'interface ! 😄
