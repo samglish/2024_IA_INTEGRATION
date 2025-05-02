@@ -31,7 +31,7 @@ def envoyer_question():
 
 # 🪟 Création de l’interface
 fenetre = tk.Tk()
-fenetre.title("Assistant GPT-3.5-turbo")
+fenetre.title("Assistant Samglish IA")
 
 champ_question = tk.Entry(fenetre, width=70)
 champ_question.pack(padx=10, pady=10)
