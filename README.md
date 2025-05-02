@@ -1,5 +1,4 @@
-# 2024_IA_INTEGRATION
-2024 IA
+## IA_INTEGRATION
 ```python
 import openai
 
